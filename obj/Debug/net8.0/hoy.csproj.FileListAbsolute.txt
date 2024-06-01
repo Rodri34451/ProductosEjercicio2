@@ -1,0 +1,14 @@
+C:\Users\isfdt\Desktop\hoy\bin\Debug\net8.0\hoy.exe
+C:\Users\isfdt\Desktop\hoy\bin\Debug\net8.0\hoy.deps.json
+C:\Users\isfdt\Desktop\hoy\bin\Debug\net8.0\hoy.runtimeconfig.json
+C:\Users\isfdt\Desktop\hoy\bin\Debug\net8.0\hoy.dll
+C:\Users\isfdt\Desktop\hoy\bin\Debug\net8.0\hoy.pdb
+C:\Users\isfdt\Desktop\hoy\obj\Debug\net8.0\hoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isfdt\Desktop\hoy\obj\Debug\net8.0\hoy.AssemblyInfoInputs.cache
+C:\Users\isfdt\Desktop\hoy\obj\Debug\net8.0\hoy.AssemblyInfo.cs
+C:\Users\isfdt\Desktop\hoy\obj\Debug\net8.0\hoy.csproj.CoreCompileInputs.cache
+C:\Users\isfdt\Desktop\hoy\obj\Debug\net8.0\hoy.dll
+C:\Users\isfdt\Desktop\hoy\obj\Debug\net8.0\refint\hoy.dll
+C:\Users\isfdt\Desktop\hoy\obj\Debug\net8.0\hoy.pdb
+C:\Users\isfdt\Desktop\hoy\obj\Debug\net8.0\hoy.genruntimeconfig.cache
+C:\Users\isfdt\Desktop\hoy\obj\Debug\net8.0\ref\hoy.dll
